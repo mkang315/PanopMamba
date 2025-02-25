@@ -2,7 +2,7 @@
 This is the source code for the paper, "PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation".
 
 ## Model
-Our proposed model is built on Python package [MMSegmentation](https://pypi.org/project/mmsegmentation) v1.2.2 (released on 14 Dec 2023). The model configuration file is in the folder ./configs/panopmamba and dataset onfiguration file is in ./mmseg/datasets. The pretrained MSVMamba-Tiny [checkpiont](https://drive.google.com/drive/folders/1ddNWk89ohcxxMuVEaJ2Y5A6xeBKgA7lU?usp=drive_link) is provided in [MSVMamba](https://github.com/YuHengsss/MSVMamba). The modules are composed by models in ./mmseg/models. The evaluation metrics are in ./tools.
+Our proposed model is built on Python package [MMSegmentation](https://pypi.org/project/mmsegmentation) v1.2.2 (released on 14 Dec 2023). The model configuration file is in the folder ./configs/panopmamba and dataset onfiguration file is in ./mmseg/datasets. The pretrained MSVMamba-Tiny [checkpiont](https://drive.google.com/drive/folders/1ddNWk89ohcxxMuVEaJ2Y5A6xeBKgA7lU?usp=drive_link) is provided in the [MSVMamba](https://github.com/YuHengsss/MSVMamba) repo. The modules are composed by models in ./mmseg/models. The evaluation metrics are in ./tools.
 
 #### Installation
 Install requirements.txt in a Python >= 3.8 environment, including PyTorch >= 1.12.
