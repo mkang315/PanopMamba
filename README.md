@@ -1,4 +1,4 @@
-# Official PanopMamba
+# Official PanopMamba, fine-grained PQ (PQ<sup>i</sup>)
 This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Segmentation with Vision State Space Modeling".
 
 ## License
