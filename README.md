@@ -7,8 +7,9 @@ Our proposed model is built on Python package [MMSegmentation](https://pypi.org/
 #### Installation
 Install requirements.txt in a Python >= 3.8 environment, including PyTorch >= 1.12.
 ```
-pip install -r requirements.txt
+pip install causal-conv1d>=1.4.0
 pip install mamba-ssm
+pip install -r requirements.txt
 ```
 
 #### Training CLI
