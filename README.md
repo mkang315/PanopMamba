@@ -7,7 +7,7 @@ We trained and evaluated PanopMamba on the Hematoxylin and Eosin (H\&E) stained 
 
 |       | MoNuSAC2020                                            | NuInsSeg                                               |
 | Model | PQ | PQ<sup>i</sup> | PQ<sup>w</sup> | PQ<sup>fw</sup> | PQ | PQ<sup>i</sup> | PQ<sup>w</sup> | PQ<sup>fw</sup> |
-| :-------: | :-------: | :-------: | :-------: | :-------: |
+| :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | 
 <!--
 | [OMG-Seg](https://github.com/lxtGH/OMG-Seg) | 0. | 0. | 0. | 0. | 0. | 0. | 0. | 0. |
 | [CellViT](https://github.com/TIO-IKIM/CellViT) | 0. | 0. | 0. | 0. | 0. | 0. | 0. | 0. |
