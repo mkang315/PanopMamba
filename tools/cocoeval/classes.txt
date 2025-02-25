@@ -1,0 +1,4 @@
+Epithelial
+Lymphocyte
+Neutrophil
+Macrophage
