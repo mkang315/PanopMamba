@@ -1,5 +1,5 @@
 # Official PanopMamba, fine-grained Panoptic Quality (PQ<sup>i</sup>), weighted Panoptic Quality (PQ<sup>w</sup>), frequency-weighted Panoptic Quality (PQ<sup>fw</sup>)
-This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Segmentation with Vision State Space Modeling".
+This is the source code for the paper, "PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation".
 
 ## Evaluation
 We trained and evaluated PanopMamba on the Hematoxylin and Eosin (H\&E) stained datasets [MoNuSAC2020](https://monusac-2020.grand-challenge.org) and [NuInsSeg](https://doi.org/10.5281/zenodo.10518968). Here are some addtional experimental results.</br>
