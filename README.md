@@ -5,7 +5,7 @@ This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Se
 We trained and evaluated PanopMamba on the Hematoxylin and Eosin (H\&E) stained datasets [MoNuSAC2020](https://monusac-2020.grand-challenge.org) and [NuInsSeg](https://doi.org/10.5281/zenodo.10518968).
 
 
-|       | MoNuSAC2020                                            | NuInsSeg                                               |
+|       | MoNuSAC2020                                           || NuInsSeg                                              ||
 | Model | PQ | PQ<sup>i</sup> | PQ<sup>w</sup> | PQ<sup>fw</sup> | PQ | PQ<sup>i</sup> | PQ<sup>w</sup> | PQ<sup>fw</sup> |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: | 
 <!--
