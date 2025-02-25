@@ -1,5 +1,5 @@
 # Official PanopMamba
-This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Segmentation with Vision State Space Modeling", submitted to the 28th International Conference on Medical Image Computing and Computer Assisted Intervention ([MICCAI 2025](https://conferences.miccai.org/2025/en)), of which I am the first author.
+This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Segmentation with Vision State Space Modeling".
 
 ## License
 PanopMamba is released under the MIT License.
