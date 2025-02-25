@@ -1,4 +1,4 @@
-# Official PanopMamba, fine-grained PQ (PQ<sup>i</sup>)
+# Official PanopMamba, fine-grained Panoptic Quality (PQ<sup>i</sup>), weighted Panoptic Quality (PQ<sup>w</sup>), frequency-weighted Panoptic Quality (PQ<sup>fw</sup>)
 This is the source code for the paper, "PanopMamba: Advancing Nuclei Panoptic Segmentation with Vision State Space Modeling".
 
 ## License
