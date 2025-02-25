@@ -2,7 +2,9 @@
 This is the source code for the paper, "PanopMamba: Vision State Space Modeling for Nuclei Panoptic Segmentation".
 
 ## Model
-Our model is built on Python package [MMSegmentation](https://pypi.org/project/mmsegmentation) v1.2.2 (released on 14 Dec 2023). The model configuration file is in the folder .\configs\panopmamba. The pretrained [MSVMamba-Tiny checkpiont](https://drive.google.com/drive/folders/1ddNWk89ohcxxMuVEaJ2Y5A6xeBKgA7lU?usp=drive_link) is provided in [MSVMamba](https://github.com/YuHengsss/MSVMamba).
+Our proposed model is built on Python package [MMSegmentation](https://pypi.org/project/mmsegmentation) v1.2.2 (released on 14 Dec 2023). The model configuration file is in the folder .\mmseg\configs\panopmamba and dataset onfiguration file is in .\mmseg\datasets. The pretrained [MSVMamba-Tiny checkpiont](https://drive.google.com/drive/folders/1ddNWk89ohcxxMuVEaJ2Y5A6xeBKgA7lU?usp=drive_link) is provided in [MSVMamba](https://github.com/YuHengsss/MSVMamba). The modules are composed by models in .\mmseg\models. The evaluation metrics are in .\tools.
+
+For detailed information, please see [user guides](https://mmsegmentation.readthedocs.io/en/latest/user_guides/index.html) for the basic usage of MMSegmentation. There are also [advanced tutorials](https://mmsegmentation.readthedocs.io/en/latest/advanced_guides/index.html) for in-depth understanding of mmseg design and implementation.
 
 ## Evaluation
 We trained and evaluated PanopMamba on the Hematoxylin and Eosin (H\&E) stained datasets [MoNuSAC2020](https://monusac-2020.grand-challenge.org) and [NuInsSeg](https://doi.org/10.5281/zenodo.10518968). Here are some addtional experimental results.</br>
