@@ -1,0 +1,5 @@
+-r requirements/mminstall.txt
+-r requirements/runtime.txt
+-r requirements/tests.txt
+-r requirements/mamba
+-r requirements/msvmamba
