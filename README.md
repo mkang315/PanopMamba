@@ -21,7 +21,7 @@ python /tools/train.py
 python /tools/test.py
 ```
 
-For more information, please see [user guides](https://mmsegmentation.readthedocs.io/en/latest/user_guides/index.html) for the basic usage of MMSegmentation. There are also [advanced tutorials](https://mmsegmentation.readthedocs.io/en/latest/advanced_guides/index.html) for in-depth understanding of mmseg design and implementation.
+For further information, please see [user guides](https://mmsegmentation.readthedocs.io/en/latest/user_guides/index.html) for the basic usage of MMSegmentation. There are also [advanced tutorials](https://mmsegmentation.readthedocs.io/en/latest/advanced_guides/index.html) for in-depth understanding of mmseg design and implementation.
 
 ## Evaluation
 We trained and evaluated PanopMamba on the Hematoxylin and Eosin (H\&E) stained datasets [MoNuSAC2020](https://monusac-2020.grand-challenge.org) and [NuInsSeg](https://doi.org/10.5281/zenodo.10518968). Here are some addtional experimental results.</br>
